@@ -1,10 +1,7 @@
 # HotelWebsite
 
 This is a Hotel Website project built using HTML, CSS, and JavaScript. The goal of this project is to create a responsive and user-friendly website for a hotel, showcasing its features, services, and amenities.
-
-
-# Link : 
-https://7chethan007.github.io/HotelWebsite/
+[Link](https://7chethan007.github.io/HotelWebsite/) to website. Check it out.
 
 
 # Usage
